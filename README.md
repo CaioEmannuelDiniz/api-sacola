@@ -97,7 +97,7 @@ No Terminal/Console:
 
 Feito com ❤️ por Caio Emannuel 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Caio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-emannuel-a792a6250/)](https://www.linkedin.com/in/caio-emannuel-a792a6250/)
+[![Linkedin Badge](https://media-exp1.licdn.com/dms/image/C4D03AQF2hp9ieXwj2Q/profile-displayphoto-shrink_200_200/0/1663043091787?e=1670457600&v=beta&t=6H8F_r23bIG99rA-DYp7fOw-AH113qrZJWcT_4-RYj0)](https://www.linkedin.com/in/caio-emannuel-a792a6250/)
 [![Gmail Badge](https://img.shields.io/badge/-caioemannueldiniz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caioemannueldiniz@gmail.com)](mailto:caioemannueldiniz@gmail.com)
 <hr>
 <h3>Contribuindo</h3>
