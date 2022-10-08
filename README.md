@@ -95,7 +95,7 @@ No Terminal/Console:
  <br />
  <sub><b>Caio Emannuel</b></sub></a> <a href="https://www.instagram.com/caioemannuel/" title="Instagram"></a>
 
-Feito com ❤️ por Caio Emannuel 👋🏽 Entre em contato!
+Feito com por Caio Emannuel 👋🏽 Entre em contato!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Caio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-emannuel-a792a6250/)](https://www.linkedin.com/in/caio-emannuel-a792a6250/)
 [![Gmail Badge](https://img.shields.io/badge/-caioemannueldiniz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caioemannueldiniz@gmail.com)](mailto:caioemannueldiniz@gmail.com)
