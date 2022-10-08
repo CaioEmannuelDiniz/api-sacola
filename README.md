@@ -1,56 +1,112 @@
-Sacola API
-Sacola API para Servir uma Aplicação com Domínio de Delivery
+<h1>Sacola API</h1>
+<p>Sacola API para Servir uma Aplicação com Domínio de Delivery</p>
+<p align="center">
+<a href="https://docs.google.com/presentation/d/1O_lCZFiuU9MOsot-pJv2lb7kKrRs4ykW/edit?usp=sharing&ouid=101340348592910912358&rtpof=true&sd=true">Slides dia 1</a> ♥ 
+<a href="https://docs.google.com/presentation/d/14JDFLaWvK6KL_9ZxubRoBciWQ_aVcxd4/edit?usp=sharing&ouid=101340348592910912358&rtpof=true&sd=true">Slides dia 2</a> ♥
+<a href="https://docs.google.com/presentation/d/11rOmP1u7nwYv5mL4ovmquYMZWktPwIiJ/edit?usp=sharing&ouid=101340348592910912358&rtpof=true&sd=true">Slides dia 3</a> ♥ 
+<a href="https://docs.google.com/presentation/d/162KrAjBivpN4GKzPVwv7y-JcIPUnN1_h/edit?usp=sharing&ouid=101340348592910912358&rtpof=true&sd=true">Slides dia 4</a>
+</p>
 
+<h3>Status do Projeto</h3>
+<p align="center"> Sacola API 💻 Em construção... </p>
 
+<h3>Features</h3>
 
-Status do Projeto
-Sacola API computer Em construção...
+- [x] Incluir itens na sacola<br>
+- [x] Visualizar sacola<br>
+- [x] Fechar sacola<br>
+- [ ] Excluir item da sacola<br>
 
-Features
-Incluir itens na sacola
-Visualizar sacola
-Fechar sacola
-Excluir item da sacola
-Demostração da Aplicação
-Antes de começar, você precisará ter instalado em sua máquina as seguintes ferramentas:
+<h3>Demostração da Aplicação</h3>
+<p>Antes de começar, você precisará ter instalado em sua máquina as seguintes ferramentas:</p>
+<table>
+<tr>
+	<th>Ferramenta</th>
+	<th>Versão</th>
+</tr>
+<tr>
+	<td>Java JDK</td>
+	<td>18+</td>
+</tr>
+<tr>
+	<td>Git</td>
+	<td>2.**</td>
+</tr>
+<tr>
+	<td>Gradle</td>
+	<td>7.**</td>
+</tr>
+<tr>
+	<td>Postman</td>
+	<td>9.**</td>
+</tr>
+</table>
+<h6>** Visando facilitar a demostração da aplicação, recomendo instalar apenas o IntelliJ IDEA e rodar o projeto através da IDE **</h6>
 
-Ferramenta	Versão
-
-Java JDK	18
-
-Git	2.**
-
-Gradle	7.**
-
-Postman	9.**
-
-** Visando facilitar a demostração da aplicação, recomendo instalar apenas o IntelliJ IDEA e rodar o projeto através da IDE **
 No Terminal/Console:
+<ol>
+	<li>Faça um clone do projeto na sua máquina: <code>git clone https://github.com/cami-la/sacola-api.git</code></li>
+	<li>Entre na pasta raiz do projeto: <code>cd sacola-api</code></li> 
+	<li>Rode o comando: <code>./gradlew bootrun</code></li>
+	<li>Com a aplicação "de pé", clique aqui: <a href="http://localhost:8081/swagger-ui/">http://localhost:8081/swagger-ui/</a></li>
+</ol>
 
-Faça um clone do projeto na sua máquina: git clone https://github.com/cami-la/sacola-api.git
-Entre na pasta raiz do projeto: cd sacola-api
-Rode o comando: ./gradlew bootrun
-Com a aplicação "de pé", clique aqui: http://localhost:8080/swagger-ui/
-rocket Collection Sacola API - Postman
+<a href="https://drive.google.com/file/d/1-FTY7jRfYbqVNQi-B7Dvn8p6wjnzf2f6/view?usp=sharing"> 🚀 Collection Sacola API - Postman</a><br>
 
-Sacola API Swagger UI
+<img src="https://i.imgur.com/UBHcWKt.png" alt="Sacola API Swagger UI">
 
-Tecnologias Utilizadas
-Dependência	Versão
+<h3>Tecnologias Utilizadas</h3>
 
-1° spring initialzr	https://start.spring.io/
+<table>
+<tr>
+	<th>Dependência</th>
+	<th>Versão</th>
+</tr>
+<tr>
+	<td>spring initialzr</td>
+	<td><a href="https://start.spring.io/">https://start.spring.io/</a></td>
+</tr>
+<tr>
+	<td>spring-boot-starter-web</td>
+	<td>2.7.4</td>
+</tr>
+<tr>
+	<td>spring-boot-starter-data-jpa</td>
+	<td>2.7.4</td>
+</tr>
+<tr>
+	<td>lombok</td>
+	<td>1.18.24</td>
+</tr>
+<tr>
+	<td>springfox-boot-starter</td>
+	<td>3.0.0</td>
+</tr>
+<tr>
+	<td>h2</td>
+	<td>2.1.214</td>
+</tr>
+</table>
 
-2° spring-boot-starter-web------>	2.7.4
+<h3>Autor</h3>
 
-3° spring-boot-starter-data-jpa------->	2.7.4
+<a href="https://www.linkedin.com/in/caio-emannuel-a792a6250/">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/64323124?v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Caio Emannuel</b></sub></a> <a href="https://www.instagram.com/caioemannuel/" title="Instagram"></a>
 
-4° lombok----->	1.18.24
+Feito com ❤️ por Caio Emannuel 👋🏽 Entre em contato!
 
-5° springfox-boot-starter------->	3.0.0
+[![Linkedin Badge](https://img.shields.io/badge/-Caio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-emannuel-a792a6250/)](https://www.linkedin.com/in/caio-emannuel-a792a6250/)
+[![Gmail Badge](https://img.shields.io/badge/-caioemannueldiniz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caioemannueldiniz@gmail.com)](mailto:caioemannueldiniz@gmail.com)
+<hr>
+<h3>Contribuindo</h3>
 
-6° h2--->2.1.214
+Este repositório foi criado para fins de estudo, então contribua com ele.<br>
+Se te ajudei de alguma forma, ficarei feliz em saber. E caso você conheça alguém que se identifique com o conteúdo, não deixe de compatilhar.
 
-Autor:
-Caio Emannuel Anizio Diniz
+Se possível:
 
-Entre em contato!
+⭐️  Star o projeto
+
+🐛 Encontrar e relatar issues
