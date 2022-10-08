@@ -48,7 +48,7 @@ No Terminal/Console:
 	<li>Faça um clone do projeto na sua máquina: <code>git clone https://github.com/cami-la/sacola-api.git</code></li>
 	<li>Entre na pasta raiz do projeto: <code>cd sacola-api</code></li> 
 	<li>Rode o comando: <code>./gradlew bootrun</code></li>
-	<li>Com a aplicação "de pé", clique aqui: <a href="http://localhost:8081/swagger-ui/">http://localhost:8081/swagger-ui/</a></li>
+	<li>Com a aplicação "de pé", clique aqui: <a href="http://localhost:8080/swagger-ui/">http://localhost:8081/swagger-ui/</a></li>
 </ol>
 
 <a href="https://drive.google.com/file/d/1-FTY7jRfYbqVNQi-B7Dvn8p6wjnzf2f6/view?usp=sharing"> 🚀 Collection Sacola API - Postman</a><br>
