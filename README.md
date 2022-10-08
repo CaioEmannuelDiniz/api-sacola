@@ -91,7 +91,7 @@ No Terminal/Console:
 <h3>Autor</h3>
 
 <a href="https://www.linkedin.com/in/caio-emannuel-a792a6250/">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/113636889?s=40&v=4" width="500px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/113636889?s=200&v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Caio Emannuel</b></sub></a> <a href="https://www.instagram.com/caioemannuel/" title="Instagram"></a>
 
